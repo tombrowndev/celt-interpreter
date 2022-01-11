@@ -1,0 +1,27 @@
+{
+  "name": "celt-interpreter",
+  "version": "0.0.1",
+  "description": "A javascript interpreter for the Celt programming language",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tombrowndev/celt-interpreter.git"
+  },
+  "keywords": [
+    "javascript",
+    "esolang",
+    "interpreter"
+  ],
+  "author": "tombrowndev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tombrowndev/celt-interpreter/issues"
+  },
+  "homepage": "https://github.com/tombrowndev/celt-interpreter#readme",
+  "dependencies": {
+    "parsimmon": "^1.18.1"
+  }
+}
